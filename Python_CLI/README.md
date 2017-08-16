@@ -17,3 +17,7 @@ Python app that uses the REST endpoint direct to push the event payload. Since t
 
 You can use run.sh to run the app. Make selection from the available options wisely :-) 
 
+## Output in MixPanel Event Dashboard
+
+[<img src="https://raw.githubusercontent.com/sainib/mixpanel-demos/master/Python_CLI/Output.png">]
+
