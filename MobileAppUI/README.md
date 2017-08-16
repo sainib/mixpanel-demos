@@ -1,11 +1,11 @@
-# mixpanel-demos
+# Python CLI mixpanel-demo
 
-## Plan to do following integration 
+## Flow 
 
-* MobileAppUI -> click -> MixPanel API
+* Standalone Python script uses MixPanel API to push events. 
 
-* HTML -> PHP -> MixPanel API 
+## Usage 
 
-* HTML(JS) -> MixPanel API 
+* Ensure MixPanel Python library is installed. If not, use install.sh
 
-* Python(CLI) -> MixPanel API 
+* Run the program using run.sh 
