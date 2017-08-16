@@ -6,6 +6,4 @@
 
 * HTML -> PHP -> MixPanel API 
 
-* HTML(JS) -> MixPanel API 
-
 * Python(CLI) -> MixPanel API 
