@@ -7,7 +7,7 @@ Python app that uses MixPanel python library and simply uses that library to tra
 
 ```
 #Assuming you have already checked out the project, change directory to <PROJROOT>/Python_CLI
-bash install.sh
+bash install-mp-lib.sh
 ```
 
 Once the library is successfully installed, you can use run.sh to run the app. 
