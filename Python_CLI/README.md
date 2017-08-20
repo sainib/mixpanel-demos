@@ -19,5 +19,5 @@ You can use run.sh to run the app. Make selection from the available options wis
 
 ## Output in MixPanel Event Dashboard
 
-[<img src="https://raw.githubusercontent.com/sainib/mixpanel-demos/master/Python_CLI/Output.png">]
+<img src="https://raw.githubusercontent.com/sainib/mixpanel-demos/master/Python_CLI/Output.png">
 
