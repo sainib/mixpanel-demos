@@ -19,6 +19,7 @@ Event logged in MixPanel
 ## Setup 
 
 * Assuming the webserver is already configured to handle PHP code
+* This web app uses CodeIgniter framework
 * Drop the files in <PROJECT_ROOT>/mixpanel-demos/HTML_PHP to the docroot of the webserver
 * Edit file <PROJECT_ROOT>/mixpanel-demos/HTML_PHP/application/config/config.php to map the base_url property appropriately. 
 
