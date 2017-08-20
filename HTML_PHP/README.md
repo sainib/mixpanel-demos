@@ -11,10 +11,10 @@ Web Page -
 <img src="https://github.com/sainib/mixpanel-demos/blob/master/HTML_PHP/1-webpage_sample.png">
 
 Success message after user clicks on the button 
-<img src="https://raw.githubusercontent.com/sainib/mixpanel-demos/blob/master/HTML_PHP/2-webpage_sample.png">
+<img src="https://github.com/sainib/mixpanel-demos/blob/master/HTML_PHP/2-webpage_sample.png">
 
 Event logged in MixPanel 
-<img src="https://raw.githubusercontent.com/sainib/mixpanel-demos/blob/master/HTML_PHP/3-webpage_sample.png">
+<img src="https://github.com/sainib/mixpanel-demos/blob/master/HTML_PHP/3-webpage_sample.png">
 
 ## Setup 
 
