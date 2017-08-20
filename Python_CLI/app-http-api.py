@@ -4,5 +4,6 @@ d={"userId": "user1","event": "Product Viewed","properties": {"distinct_id": "us
 
 s = json.dumps(d)
 ed = base64.b64encode(s)
-
-r = requests.post(url = 'http://api.mixpanel.com/track/?data=' + ed )
+url = 'http://api.mixpanel.com/track/'
+data = 'data=' + ed
+r = requests.post(url, data )
