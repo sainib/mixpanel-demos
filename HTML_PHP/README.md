@@ -8,7 +8,7 @@
 * HTML page initiate AJAX call to PHP Rest API which uses native HTTP APIs of MixPanel to log the event. 
 
 Web Page - 
-<img src="https://raw.githubusercontent.com/sainib/mixpanel-demos/blob/master/HTML_PHP/1-webpage_sample.png">
+<img src="https://github.com/sainib/mixpanel-demos/blob/master/Python_CLI/Output.png">
 
 Success message after user clicks on the button 
 <img src="https://raw.githubusercontent.com/sainib/mixpanel-demos/blob/master/HTML_PHP/2-webpage_sample.png">
