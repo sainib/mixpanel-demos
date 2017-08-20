@@ -33,7 +33,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </div>      
         <h1 class="cover-heading">The adventure Begins</h1>
         <p class="lead cover-copy">Clicking of the button below will magically generate and log an event.</p>
-        <p class="lead"><button type="button" id="theButton" name="theButton" class="btn btn-lg btn-default btn-notify">Stalk Me</button></p>
+        <p class="lead"><button type="button" id="theButton" name="theButton" class="btn btn-lg btn-default btn-notify">Click Here..</button></p>
       </div>
       <div class="mastfoot">
         <div class="inner">
