@@ -4,7 +4,7 @@
 
 ## Flow 
 
-* User Navigates to the home page of the website and clicks on the 'Stalk Me' button. 
+* User Navigates to the home page of the website and clicks on the 'Click Here..' button. 
 * HTML page initiate AJAX call to PHP Rest API which uses native HTTP APIs of MixPanel to log the event. 
 
 Web Page - 
